@@ -7,6 +7,7 @@ authors = ["Harshvardhan Rijhwani"]
 
 [dependencies]
 bootloader = "0.9.23"
+volatile = "0.2.6"
 
 [profile.dev]
 panic = "abort"
